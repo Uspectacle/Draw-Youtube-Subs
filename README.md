@@ -12,4 +12,4 @@ Generate a mosaic out of your subs
 - Enter the adress of your zip in the notebook
 - Enter the adress of a picture in the notebook
 - Run
-- Oh what a beatifull background
+- Oh what a beautiful background
